@@ -1,2 +1,2 @@
 Hello...
-My name is Rafly Dioniswara Pramono. I buit this website using HTML and CSS only. This website has design and UI/UX only not presenting a backend. If you want collaborating please send me a DM to my instagram account. <a href="https://www.instagram.com/rafly_apis/" target="_blank" target="_blank" rel="noreferrer">rafly_apis</a>
+My name is Rafly Dioniswara Pramono. I buit this website using HTML and CSS only. This website has design and UI/UX only not presenting a backend. If you want collaborating please send me a DM to my instagram account. <a href="https://www.instagram.com/rafly_apis/" target="_blank" rel="noreferrer">rafly_apis</a>
